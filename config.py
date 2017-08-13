@@ -1,0 +1,4 @@
+TAG_NAME = '私房'
+
+START_INDEX = 1
+END_INDEX = 6
