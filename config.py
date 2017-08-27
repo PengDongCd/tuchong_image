@@ -4,4 +4,4 @@ MONGO_DB = "paddy001"
 MONGO_TABLE = "paddy_collection_exif"
 
 START_INDEX = 1
-END_INDEX = 6
+END_INDEX = 50
